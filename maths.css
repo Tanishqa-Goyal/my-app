@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(rgba(111, 10, 205, 0.521) 0%, rgb(255, 255, 255) 100%);
+}
+
+  button {
+    width: 200px;
+    background-color: lightcoral;
+    font-weight: bold;
+    height: 30px;
+  }
+  div {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #firstno {
+    margin-left: 38px;
+  }
+  input {
+    height: 25px;
+    text-align: center;
+  }
+  
